@@ -1,6 +1,10 @@
-## Welcome to the Fruit-Sorting-Project wiki!
+## Welcome to the Fruit-Sorting-Project
 
 This project replaces an old computer (DOC) with a Raspberry Pi (Python) that operates a fruit sorting machine.
+
+I did the project in collaboration with Shaniel Ashurov and Vladimir Amir.
+
+All information attached to the project can be used for personal and non-commercial purposes.
 
 ### Pinout Diagram:
 
