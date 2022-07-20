@@ -42,3 +42,32 @@ The project was done in collaboration with Shaniel Ashurov and Vladimir Amir.
 ![Sensors](https://i.postimg.cc/FKMhZm4M/IMG-1713.jpg)
 
 ![hardware](https://i.postimg.cc/KzGJC3xB/IMG-1707.jpg)
+
+# Software workflow in raspberry pi 4
+
+sudo apt-get update
+
+sudo apt update
+
+sudo apt full-upgrade
+
+sudo apt-get install python3-pip
+
+sudo apt install python3-pip
+
+pip3 --version
+
+sudo apt install python3-gpiozero
+
+sudo apt update
+
+sudo pip3 install guizero
+
+sudo apt-get install python3-tk
+
+sudo apt-get install florence
+
+sudo apt install code
+
+sudo apt upgrade code
+
