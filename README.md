@@ -27,7 +27,7 @@ The project was done in collaboration with Shaniel Ashurov and Vladimir Amir.
 
 [Dupont Wire](https://www.amazon.com/gp/product/B07GD1TH2K/ref=ppx_yo_dt_b_asin_title_o05_s01?ie=UTF8&psc=1)
 
-### Datasheets
+### Datasheets:
 
 [Datasheet_BES008M_127015_en.pdf](https://github.com/IshaiShabaev/Fruit-Sorting-Project/files/9150891/Datasheet_BES008M_127015_en.pdf)
 
@@ -35,7 +35,7 @@ The project was done in collaboration with Shaniel Ashurov and Vladimir Amir.
 
 [1030.pdf](https://github.com/IshaiShabaev/Fruit-Sorting-Project/files/9150894/1030.pdf)
 
-### Pictures
+### Pictures:
 
 ![ASSY](https://i.postimg.cc/grFc2WMy/IMG-1712.jpg)
 
@@ -43,7 +43,7 @@ The project was done in collaboration with Shaniel Ashurov and Vladimir Amir.
 
 ![hardware](https://i.postimg.cc/KzGJC3xB/IMG-1707.jpg)
 
-### Software workflow in raspberry pi 4
+### Software workflow in raspberry pi 4:
 
 sudo apt-get update
 
