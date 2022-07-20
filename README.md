@@ -1,6 +1,6 @@
 ## Welcome to the Fruit Sorting Project
 
-This project replaces an old computer (DOC) with a Raspberry Pi (Python) that operates a fruit sorting machine.
+This project replaces an old computer (DOS) with a Raspberry Pi (Python) that operates a fruit sorting machine.
 
 As a result of the COVID-19, the project was canceled, all information attached to the project can be used for personal and non-commercial purposes.
 
