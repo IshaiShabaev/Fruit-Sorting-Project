@@ -43,7 +43,7 @@ The project was done in collaboration with Shaniel Ashurov and Vladimir Amir.
 
 ![hardware](https://i.postimg.cc/KzGJC3xB/IMG-1707.jpg)
 
-# Software workflow in raspberry pi 4
+### Software workflow in raspberry pi 4
 
 sudo apt-get update
 
