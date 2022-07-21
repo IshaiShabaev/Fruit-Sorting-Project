@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 from tkinter import * 
 import random, time, threading, sys
-from threading import Timer
+from threading import Timer 
 
 root = Tk()
 
@@ -51,7 +51,7 @@ def getIntSafely(val):
 
 
 def initParams():
-	################# RESET / START ############################
+	################# RESET / START #############################
 	gate1= [getIntSafely(getMinGateOne()),getIntSafely(getMaxGateOne())]
 	gate2= [getIntSafely(getMinGateTwo()),getIntSafely(getMaxGateTwo())]
 	gate3= [getIntSafely(getMinGateTree()),getIntSafely(getMaxGateTree())]
